@@ -14,6 +14,8 @@ public class Program {
 		System.out.println("a quanto tempo essa lasanha esta no forno? ");
 		int remain = sc.nextInt();
 
+		sc.close();
+		
 		Lasanha lasanha = new Lasanha(remain, preparation);
 
 		System.out.println("tempo de preparo foi: " + lasanha.preparationTimeInMinutes(preparation));
