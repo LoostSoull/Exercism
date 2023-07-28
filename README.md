@@ -1,7 +1,8 @@
 # Exercism
 Exercicios do Site Exercism
 
--cozinhando uma lasanha, utilizando funções simples
+
+- cozinhando uma lasanha, utilizando funções simples
 
 - infiltração de annalyn , utilizando boolean para jogar um simples "rpg"
 
